@@ -72,6 +72,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "深層学習による不具合混入コミットの予測と評価," ソフトウェアエンジニアリングシンポジウム2017論文集 (SES2017) , pp. 35-45, 2017年8月. (東京都)
 
 ## Domestic Conferences (No Reviews)
+- 友池 真輝, 石本 優太, **近藤 将成 (九州大学)**, 鵜林 尚靖 (早稲田大学), 亀井 靖高 (九州大学), "LLMを用いたソフトウェア工学エージェントに対するパーソナリティの影響の初期調査," ソフトウェアエンジニアリングシンポジウム2024論文集 (SES2024), 一般論文, pp.123-129, 2024-09-10.
+- Chunrun Tao, Honglin Shu, **Masanari Kondo**, Yasutaka Kamei (Kyushu University), "An Empirical Study on Small Language Models in Sentiment Analysis for Software Engineering," ソフトウェアエンジニアリングシンポジウム2024論文集 (SES2024), 一般論文, pp.130-136, 2024-09-10
 - 齋藤 旭, **近藤 将成**, 鵜林 尚靖, 亀井 靖高, "ChatGPTによるプログラム生成の安定性に関する初期調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), 一般論文, pp.191-198, 2023.
 - 野口 広太郎, 小柳 慶, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "GitHub Copilotを用いたコード自動生成におけるプログラム仕様文順序の影響調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), pp.94-101, 一般論文, 2023.
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
@@ -153,3 +155,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, "An Empirical Study of Feature Engineering on Software Defect Prediction," Ph.D. thesis, Graduate School of Science and Technology, Kyoto Institute of Technology, 2021.
 - **Masanari Kondo**, "The Impact of Feature Reduction Techniques on Defect Prediction Models," Master thesis, Graduate School of Science and Technology, Kyoto Institute of Technology, 2019.
 - 近藤 将成, "RBMを用いたソフトウェアメトリクスの特徴抽出手法の提案," 卒業研究報告書, 京都工芸繊維大学, 2017年2月.
+
+## 外部資金獲得実績
+- 2025年4月〜2029年3月，基盤研究（B）（25K03100），直接経費：14,500千円，研究課題：既存のソフトウェアのコード理解支援のための合理的判断マイニングの提案
+- 2022年4月〜2025年3月，若手研究（22K17874），直接経費：3,500千円，研究課題：潜在バグの発見・修正を可能とするJust-in-time自動バグ修正の提案
+- 2019年4月〜2021年3月，特別研究員奨励費（19J23477），直接経費：1,900千円，研究課題：開発者個人の活動に対する深層学習によるソフトウェア不具合検出技法

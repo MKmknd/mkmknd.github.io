@@ -74,11 +74,14 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "深層学習による不具合混入コミットの予測と評価," ソフトウェアエンジニアリングシンポジウム2017論文集 (SES2017) , pp. 35-45, 2017年8月. (東京都)
 
 ## Domestic Conferences (No Reviews)
+- 友池 真輝, 石本 優太, **近藤 将成 (九州大学)**, 鵜林 尚靖 (早稲田大学), 亀井 靖高 (九州大学), "LLMを用いたソフトウェア工学エージェントに対するパーソナリティの影響の初期調査," ソフトウェアエンジニアリングシンポジウム2024論文集 (SES2024), 一般論文, pp.123-129, 2024-09-10.
+- Chunrun Tao, Honglin Shu, **Masanari Kondo**, Yasutaka Kamei (Kyushu University), "An Empirical Study on Small Language Models in Sentiment Analysis for Software Engineering," ソフトウェアエンジニアリングシンポジウム2024論文集 (SES2024), 一般論文, pp.130-136, 2024-09-10
 - 齋藤 旭, **近藤 将成**, 鵜林 尚靖, 亀井 靖高, "ChatGPTによるプログラム生成の安定性に関する初期調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), 一般論文, pp.191-198, 2023.
 - 野口 広太郎, 小柳 慶, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "GitHub Copilotを用いたコード自動生成におけるプログラム仕様文順序の影響調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), pp.94-101, 一般論文, 2023.
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
 
 ## Awards
+- 草間 紀輝, Honglin Shu, **近藤 将成**, 亀井 靖高, "2024年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞：Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技法, vol.124, no.124, no.429, pp.152-157, 2025年03月
 - **M. Kondo**, ICPC2024 Distinguished Reviewer Award (April, 2024)
 - 宇都宮 魁斗, "IEEE Computer Society Japan Chapter FOSE Young Researcher Award: 宇都宮 魁斗，秋山 楽登，**近藤 将成**，亀井 靖高，鵜林 尚靖，"初学者のためのデバッグ作業支援に向けた大規模言語モデルの初期評価，FOSE2023，2023．"
 - 石本優太，**近藤将成**，鵜林尚靖，亀井靖高，"電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞：確率的オートマトンとn-gramに基づくRNNに対するバグ限局，信学技報, vol. 122, no. 138, SS2022-10, pp. 55-60, 2022年7月."
@@ -110,6 +113,13 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - Nov. 2014, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” International Symposium on Technology for Sustainability (ISTS2014)
 
 ## Workshops
+- 草間 紀輝, Honglin Shu, 近藤 将成, 亀井 靖高, "Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技法, vol.124, no.124, no.429, pp.152-157, 2025年03月.
+- 石本優太・近藤将成（九大）・鵜林尚靖（早大）・亀井靖高（九大）・勝部瞭太・佐藤直人・小川秀人（日立）, "量子プログラムに対するミューテーションに基づく欠陥局所化," 信学技報, vol.124, no.429, pp.194-199, 2025年3月.
+- 戸井裕規・東本知志・近藤将成（九大）・鵜林尚靖（早大）・亀井靖高（九大）, "GPT-4oを用いたコード自動生成におけるプログラムフローチャート画像の影響調査," 信学技報, vol.124, no.429, pp.164-169, 2025年3月.
+- 植中 雄斗, 石本 優太, 近藤 将成, 亀井 靖高 (九州大学), "ビデオゲームにおけるバグの自動検出手法の提案と初期評価," 第219回ソフトウェア工学研究発表会, 2025年3月．
+- 近藤偉成（阪大）・近藤将成・亀井靖高（九大）・肥後芳樹（阪大）, "SZZ手法によるバグ混入コミット推定精度向上のためのコンテキストを考慮した開発履歴の提案," 信学技法, vol.124, no.326, pp.104-109, 2025年1月.
+- 徳益 晴香, 近藤 将成, 小栁 慶（九州大学）, Wang Dong（天津大学）, 鵜林 尚靖（早稲田大学）, Serebrenik Alexander（Eindhoven University of Technology）, 亀井 靖高（九州大学）, "プロンプトの自然言語差異が LLM を用いたコード自動生成に及ぼす影響の研究," 第218回ソフトウェア工学研究発表会, 2024年11月．
+- 熊 中仁, 近藤 将成, 鵜林 尚靖, 亀井 靖高, "コンテキストを考慮したSZZの提案と評価," 第217回ソフトウェア工学研究発表会, 2024年7月．
 - 中村 悠人，石本 優太，勝部 瞭太，佐藤 直人，小川 秀人，近藤 将成，亀井 靖高，鵜林 尚靖, "量子プログラムにおけるSATDの分類と評価," 電子情報通信学会技術報告 (知能ソフトウェア工学研究会), 2024年3月.
 - 戸井 裕規，小栁 慶，野口 広太郎，近藤 将成，亀井 靖高，鵜林 尚靖, "GitHub Copilotを用いたコード生成におけるプロンプト削除の影響調査," 第216回ソフトウェア工学研究発表会, 2024年3月.
 - 宇都宮 魁斗，近藤 将成，亀井 靖高，鵜林 尚靖, "大学プログラミング教育で発生したコンパイルエラーに対するGPT-3.5による修正の特徴分析," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), 2024年3月.
@@ -128,8 +138,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 沖野 健太郎, 近藤 将成, 亀井 靖高, 鵜林 尚靖, 谷口 雄太, "初学者のPythonコード改善を目的としたコード分析と補助ツールの実装," 第213回ソフトウェア工学研究発表会, 2023年3月.
 - 長濱吉慧・近藤将成・亀井靖高・鵜林尚靖（九大），"量子プログラミングにおけるSelf-Admitted Technical Debtの初期調査," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会)，vol.122，no.138(SS)， pp.109-114，2022年7月．
 - 石本優太・近藤将成・鵜林尚靖・亀井靖高（九大）, "確率的オートマトンとn-gramに基づくRNNに対するバグ限局," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会)，vol.122，no.138(SS)， pp.55-60，2022年7月．
-- 山本 大貴(九州大学)，Rajbahadur Gopi Krishnan(Centre for Software Excellence)，**近藤 将成**，亀井 靖高，鵜林 尚靖(九州大学), "連合学習によるプライバシー保護を考慮したプロジェクト間バグ予測," 第211回
-ソフトウェア工学研究発表会, 2022年7月．
+- 山本 大貴(九州大学)，Rajbahadur Gopi Krishnan(Centre for Software Excellence)，**近藤 将成**，亀井 靖高，鵜林 尚靖(九州大学), "連合学習によるプライバシー保護を考慮したプロジェクト間バグ予測," 第211回ソフトウェア工学研究発表会, 2022年7月．
 - 杉原 裕太, 沖野 健太郎, 清水 一輝, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "型を考慮したコードクローンの集約リファクタリングに関する研究," 第210回ソフトウェア工学研究発表会, 2022-SE-210(28), pp.1-8, 2022年3月. (オンライン)
 - 中村 悠人, 松尾 春紀, 松田 雄河, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "DVCリポジトリにおけるMLパイプラインの進化に関する調査," 第210回ソフトウェア工学研究発表会, 2022-SE-210(18), pp.1-8, 2022年3月. (オンライン)
 - 小栁 慶, 秋山 楽登, 山手 響介, **近藤 将成**, 亀井 靖高, 鵜林 尚靖, "Pythonにおける機械学習関連ライブラリの自動推薦手法の初期評価," 第210回ソフトウェア工学研究発表会, 2022-SE-210(17), pp.1-8, 2022年3月. (オンライン)
@@ -148,3 +157,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, "An Empirical Study of Feature Engineering on Software Defect Prediction," Ph.D. thesis, Graduate School of Science and Technology, Kyoto Institute of Technology, 2021.
 - **Masanari Kondo**, "The Impact of Feature Reduction Techniques on Defect Prediction Models," Master thesis, Graduate School of Science and Technology, Kyoto Institute of Technology, 2019.
 - 近藤 将成, "RBMを用いたソフトウェアメトリクスの特徴抽出手法の提案," 卒業研究報告書, 京都工芸繊維大学, 2017年2月.
+
+## 外部資金獲得実績
+- 2025年4月〜2029年3月，基盤研究（B）（25K03100），直接経費：14,500千円，研究課題：既存のソフトウェアのコード理解支援のための合理的判断マイニングの提案
+- 2022年4月〜2025年3月，若手研究（22K17874），直接経費：3,500千円，研究課題：潜在バグの発見・修正を可能とするJust-in-time自動バグ修正の提案
+- 2019年4月〜2021年3月，特別研究員奨励費（19J23477），直接経費：1,900千円，研究課題：開発者個人の活動に対する深層学習によるソフトウェア不具合検出技法

@@ -17,7 +17,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
 
 ## Journal Papers
-- Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, (accepted, to appear)
+- Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025.
 - Hiroki Kuramoto, Dong Wang, **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports," Empirical Software Engineering, Vol.29, No.89, 2024. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kuramoto2024EMSE.pdf)
 - Dong Wang, **Masanari Kondo**, Yasutaka Kamei, Raula Gaikovina Kula, Naoyasu Ubayashi, "When Conversations Turn Into Work: A Taxonomy of Converted Discussions and Issues in GitHub," Empirical Software Engineering, Vol.28, No.138, 2023.
 - Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," Information and Software Technology, Vol.155, 2023.

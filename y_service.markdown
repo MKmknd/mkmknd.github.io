@@ -53,9 +53,11 @@ International Conference on Program Comprehension (ICPC)[CoreランクA]
 International Conference on Software Analysis, Evolution and Reengineering (SANER)[CoreランクA]
     - 2025@Research Track
     - 2024@Research Papers
-- Asia Pacific Software Engineering Conference
+- Asia Pacific Software Engineering Conference (APSEC)
+    - 2025@Tool-Demo Track
     - 2023@Student Research Competition
 - International Conference on AI-Powered Software (AIware)
+    - 2025@Main Track
     - 2024@Main Track
 
 ## 国際会議Chair

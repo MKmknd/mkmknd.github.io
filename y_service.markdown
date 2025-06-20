@@ -46,11 +46,11 @@ permalink: /service/
     - 2023@Registered Reports Track
     - 2023@Data and Tool Showcase Track
     - 2022@Registered Reports
-International Conference on Program Comprehension (ICPC)[CoreランクA]
+- International Conference on Program Comprehension (ICPC)[CoreランクA]
     - 2024@Research Track (Distinguished Reviewer Award)
     - 2024@Tool Demonstration
     - 2023@Research Track
-International Conference on Software Analysis, Evolution and Reengineering (SANER)[CoreランクA]
+- International Conference on Software Analysis, Evolution and Reengineering (SANER)[CoreランクA]
     - 2025@Research Track
     - 2024@Research Papers
 - Asia Pacific Software Engineering Conference (APSEC)

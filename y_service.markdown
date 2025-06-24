@@ -53,6 +53,8 @@ permalink: /service/
 - International Conference on Software Analysis, Evolution and Reengineering (SANER)[CoreランクA]
     - 2025@Research Track
     - 2024@Research Papers
+- International Conference on Source Code Analysis & Manipulation (SCAM)
+    - 2025@Engineering Track
 - Asia Pacific Software Engineering Conference (APSEC)
     - 2025@Tool-Demo Track
     - 2023@Student Research Competition

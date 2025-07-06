@@ -19,7 +19,7 @@ permalink: /service/
 
 ## 国内会議等における運営委員・編集委員等
 - ソフトウェア工学の基礎ワークショップ（FOSE）プログラム委員，2025
-- ソフトウェアエンジニアリングシンポジウム2025（SES2025）企画委員長，2025
+- IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2025（SES2025）企画委員長，2025
 - ソフトウェア工学の基礎ワークショップ（FOSE）プログラム委員，2024
 - ソフトウェア工学の基礎ワークショップ（FOSE）プログラム委員，2023
 - 情報処理学会　第214回ソフトウェア工学研究発表会，運営委員，2023
@@ -33,7 +33,7 @@ permalink: /service/
 ## 国際会議におけるレフェリー（PCメンバー）
 - International Conference on the Foundations of Software Engineering (FSE)[CoreランクA+]
     - 2025@Demonstrations
-- International Conference on Automated Software Engineering (ASE)[CoreランクA]
+- International Conference on Automated Software Engineering (ASE)[CoreランクA+]
     - 2025@NIER Track
     - 2024@NIER Track
     - 2023@NIER Track
@@ -53,7 +53,7 @@ permalink: /service/
 - International Conference on Software Analysis, Evolution and Reengineering (SANER)[CoreランクA]
     - 2025@Research Track
     - 2024@Research Papers
-- International Conference on Source Code Analysis & Manipulation (SCAM)
+- International Conference on Source Code Analysis & Manipulation (SCAM) [CoreランクC]
     - 2025@Engineering Track
 - Asia Pacific Software Engineering Conference (APSEC)
     - 2025@Tool-Demo Track

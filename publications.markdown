@@ -32,6 +32,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
+- Kazuki Kusama, Honglin Shu, **Masanari Kondo** and Yasutaka Kamei, "How Small is Enough? Empirical Evidence of Quantized Small Language Models for Automated Program Repair," In Proc. of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM2025), (accepted, to appear). 
 - Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, Ryota Katsube, Naoto Sato and Hideto Ogawa, "Evaluating Mutation-based Fault Localization for Quantum Programs," In Proc. of the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025), (accepted, to appear).
 - Yuta Ishimoto, Yuto Nakamura, Ryota Katsube, Naoto Sato, Hideto Ogawa, **Masanari Kondo**, Yasutaka Kamei and Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Quantum Software," In Proc. of the 31st Asia-Pacific Software Engineering Conference (APSEC 2024), (accepted, to appear).
 - Olivier Nourry, **Masanari Kondo**, Mahmoud Alfadel, Shane McIntosh, Yasutaka Kamei, "Exploring the Adoption of Fuzz Testing in Open-Source Software: A Case Study of the Go Community," In Proc. of the 40th International Conference on Software Maintenance and Evolution (ICSME), pp.300-311, 2024, 2024 [(preprint)](https://rebels.cs.uwaterloo.ca/papers/icsme2024_nourry.pdf)

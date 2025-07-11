@@ -38,6 +38,7 @@ permalink: /service/
     - 2024@NIER Track
     - 2023@NIER Track
 - International Conference on Software Maintenance and Evolution (ICSME)[CoreランクA]
+    - 2025@Artifact Track
     - 2025@Research Track
 - International Conference on Mining Software Repositories (MSR)[CoreランクA]
     - 2025@Registered Reports Track

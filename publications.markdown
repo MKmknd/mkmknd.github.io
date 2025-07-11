@@ -57,6 +57,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - OSS Myths and Facts, [Book URL](https://arxiv.org/abs/2404.09223)
 
 ## Domestic Conferences
+- 柏 祐太郎，**近藤 将成**，槇原 絵里奈，亀井 靖高，"シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較" ソフトウェアエンジニアリングシンポジウム2025論文集（SES2025），(accepted, to appear)，2025．
 - **近藤 将成**，池田 翔，Gopi Krishnan Rajbahadur，鵜林 尚靖，亀井 靖高，"異なる変更量のコミットがJust-In-Timeバグ予測の評価結果へ与える影響の調査" 第31回ソフトウェア工学の基礎ワークショップ (FOSE2024)，(accepted, to appear)，2024．
 - 東本 知志，蔵元 宏樹，斎藤 忍，飯村 結香子，**近藤 将成**，亀井 靖高，鵜林 尚靖，"生存時間分析によるOSSの活動継続に関する実証評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.23-32，2023．
 - 宇都宮 魁斗，秋山 楽登，**近藤 将成**，亀井 靖高，鵜林 尚靖，"初学者のためのデバッグ作業支援に向けた大規模言語モデルの初期評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.63-71，2023．
@@ -105,6 +106,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "最優秀論文賞: 深層学習による不具合混入コミットの予測と評価," ソフトウェアエンジニアリングシンポジウム2017 (SES2017), 2017年8月.
 
 ## Presentations (International)
+- June, 2025, "An Empirical Study of Token-based Micro Commits," In Journal First Paper Track, The ACM International Conference on the Foundations of Software Engineering (FSE2025) 
 - March, 2024, "Benefits and pitfalls of token-level SZZ: An empirical study on OSS projects," The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER2024), 2024.
 - June, 2023, "Towards Better Online Communication for Future Software Development in Industry," The 17th IEEE International Workshop on Quality Oriented Reuse of Software (QUORS), 2023.
 - May, 2023, "An Empirical Study of Issue-Link Algorithms: Which Issue-Link Algorithms Should We Use?," In Journal First track,  International Conference on Software Engineering (ICSE2023), 2023.
@@ -115,6 +117,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - Nov. 2014, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” International Symposium on Technology for Sustainability (ISTS2014)
 
 ## Workshops
+- 中島蒼太・石本優太・近藤 将成・Tao Xiao・亀井 靖高, "大規模言語モデルを用いたSATDの分類体系の自動生成," 第220回ソフトウェア工学研究発表会, 2025年7月.
 - 草間 紀輝, Honglin Shu, 近藤 将成, 亀井 靖高, "Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技法, vol.124, no.124, no.429, pp.152-157, 2025年03月.
 - 石本優太・近藤将成（九大）・鵜林尚靖（早大）・亀井靖高（九大）・勝部瞭太・佐藤直人・小川秀人（日立）, "量子プログラムに対するミューテーションに基づく欠陥局所化," 信学技報, vol.124, no.429, pp.194-199, 2025年3月.
 - 戸井裕規・東本知志・近藤将成（九大）・鵜林尚靖（早大）・亀井靖高（九大）, "GPT-4oを用いたコード自動生成におけるプログラムフローチャート画像の影響調査," 信学技報, vol.124, no.429, pp.164-169, 2025年3月.

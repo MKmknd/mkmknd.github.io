@@ -56,6 +56,8 @@ permalink: /service/
     - 2024@Research Papers
 - International Conference on Source Code Analysis & Manipulation (SCAM) [CoreランクC]
     - 2025@Engineering Track
+- International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026) 
+    - 2026@Research Track
 - Asia Pacific Software Engineering Conference (APSEC)
     - 2025@Tool-Demo Track
     - 2023@Student Research Competition

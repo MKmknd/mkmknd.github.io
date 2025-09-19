@@ -41,6 +41,7 @@ permalink: /service/
     - 2025@Artifact Track
     - 2025@Research Track
 - International Conference on Mining Software Repositories (MSR)[CoreランクA]
+    - 2026@Mining Challenge Track
     - 2025@Registered Reports Track
     - 2024@Registered Reports Track
     - 2024@Mining Challenge Track

@@ -57,6 +57,8 @@ permalink: /service/
     - 2026@Research Track
     - 2025@Research Track
     - 2024@Research Papers
+- International Conference on Evaluation and Assessment in Software Engineering (EASE)[CoreランクA]
+    - 2026@Research Papers Track
 - International Conference on Source Code Analysis & Manipulation (SCAM) [CoreランクC]
     - 2025@Engineering Track
 - International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026) 

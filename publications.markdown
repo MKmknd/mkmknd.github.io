@@ -85,6 +85,9 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
 
 ## Awards
+- Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "SIGSE卓越研究賞: Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025.
+- **Masanari Kondo**, Daniel German, Yasutaka Kamei, Naoyasu Ubayashi, Osamu Mizuno, "SIGSE卓越研究賞: An Empirical Study of Token-based Micro Commits", Empirical Software Engineering, Vol.29, No.148, 2024. 
+- 柏 祐太郎, **近藤 将成**, 槇原 絵里奈, 亀井 靖高, "研究奨励賞: シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較," ソフトウェアエンジニアリングシンポジウム2025論文集 (SES2025), 2025年9月.
 - 草間 紀輝, Honglin Shu, **近藤 将成**, 亀井 靖高, "2024年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞：Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技法, vol.124, no.124, no.429, pp.152-157, 2025年03月
 - 石本優太, 近藤 将成, 馬 雷, 鵜林 尚靖, 亀井 靖高, "ポスター・デモ賞：Repairs and Breaks Prediction for Deep Neural Networks", 第三十一回ソフトウェア工学の基礎ワークショップ (FOSE2024), 2024年11月30日
 - **M. Kondo**, ICPC2024 Distinguished Reviewer Award (April, 2024)

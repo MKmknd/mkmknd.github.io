@@ -32,8 +32,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
-- Sota Nakashima, Yuta Ishimoto, Masanari Kondo, Tao Xiao, Yasutaka Kamei, "How Far Have LLMs Come Toward Automated SATD Taxonomy Construction?," In Proc. of the 32nd Asia-Pacific Software Engineering Conference (APSEC2025), (accepted, to appear).
-- Chunrun Tao, Honglin Shu, Masanari Kondo and Yasutaka Kamei, "A Preliminary Study on Large Language Models Self-Negotiation in Software Engineering," In Proc. of the 41st International Conference on Software Maintenance and Evolution (ICSME2025), (accepted, to appear).
+- Sota Nakashima, Yuta Ishimoto, **Masanari Kondo**, Tao Xiao, Yasutaka Kamei, "How Far Have LLMs Come Toward Automated SATD Taxonomy Construction?," In Proc. of the 32nd Asia-Pacific Software Engineering Conference (APSEC2025), (accepted, to appear).
+- Chunrun Tao, Honglin Shu, **Masanari Kondo** and Yasutaka Kamei, "A Preliminary Study on Large Language Models Self-Negotiation in Software Engineering," In Proc. of the 41st International Conference on Software Maintenance and Evolution (ICSME2025), (accepted, to appear).
 - Kazuki Kusama, Honglin Shu, **Masanari Kondo** and Yasutaka Kamei, "How Small is Enough? Empirical Evidence of Quantized Small Language Models for Automated Program Repair," In Proc. of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM2025), (accepted, to appear). [(preprint)](https://arxiv.org/abs/2508.16499)
 - Yuta Ishimoto, **Masanari Kondo**, Naoyasu Ubayashi, Yasutaka Kamei, Ryota Katsube, Naoto Sato and Hideto Ogawa, "Evaluating Mutation-based Fault Localization for Quantum Programs," In Proc. of the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025), (accepted, to appear).
 - Yuta Ishimoto, Yuto Nakamura, Ryota Katsube, Naoto Sato, Hideto Ogawa, **Masanari Kondo**, Yasutaka Kamei and Naoyasu Ubayashi, "An Empirical Study on Self-Admitted Technical Debt in Quantum Software," In Proc. of the 31st Asia-Pacific Software Engineering Conference (APSEC 2024), (accepted, to appear).
@@ -78,6 +78,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **近藤 将成**, 森 啓太, 水野 修, 崔 銀惠, "深層学習による不具合混入コミットの予測と評価," ソフトウェアエンジニアリングシンポジウム2017論文集 (SES2017) , pp. 35-45, 2017年8月. (東京都)
 
 ## Domestic Conferences (No Reviews)
+- 瀬澤 勇斗, 槇原 絵里奈, **近藤 将成**, 吉田 則裕, 井上 克郎, "Stack Overflowにおける内部リンクと外部リンクの影響調査," ソフトウェアエンジニアリングシンポジウム2025論文集 (SES2025), 一般論文, 2025-09-18.
 - 友池 真輝, 石本 優太, **近藤 将成 (九州大学)**, 鵜林 尚靖 (早稲田大学), 亀井 靖高 (九州大学), "LLMを用いたソフトウェア工学エージェントに対するパーソナリティの影響の初期調査," ソフトウェアエンジニアリングシンポジウム2024論文集 (SES2024), 一般論文, pp.123-129, 2024-09-10.
 - Chunrun Tao, Honglin Shu, **Masanari Kondo**, Yasutaka Kamei (Kyushu University), "An Empirical Study on Small Language Models in Sentiment Analysis for Software Engineering," ソフトウェアエンジニアリングシンポジウム2024論文集 (SES2024), 一般論文, pp.130-136, 2024-09-10
 - 齋藤 旭, **近藤 将成**, 鵜林 尚靖, 亀井 靖高, "ChatGPTによるプログラム生成の安定性に関する初期調査" ソフトウェアエンジニアリングシンポジウム2023論文集 (SES2023), 一般論文, pp.191-198, 2023.

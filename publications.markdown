@@ -32,6 +32,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
+- Panya Trakoolgerntong, Tao Xiao, Masanari Kondo, Chaiyong Ragkhitwetsagul, Morakot Choetkiertikul, Pattaraporn Sangaroonsilp, Yasutaka Kamei, "AILINKPREVIEWER: Enhancing Code Reviews with LLM-Powered Link Previews," In Proc. of the 32nd Asia-Pacific Software Engineering Conference (APSEC2025), (accepted, to appear).
 - Sota Nakashima, Yuta Ishimoto, **Masanari Kondo**, Tao Xiao, Yasutaka Kamei, "How Far Have LLMs Come Toward Automated SATD Taxonomy Construction?," In Proc. of the 32nd Asia-Pacific Software Engineering Conference (APSEC2025), (accepted, to appear).
 - Chunrun Tao, Honglin Shu, **Masanari Kondo** and Yasutaka Kamei, "A Preliminary Study on Large Language Models Self-Negotiation in Software Engineering," In Proc. of the 41st International Conference on Software Maintenance and Evolution (ICSME2025), (accepted, to appear).
 - Kazuki Kusama, Honglin Shu, **Masanari Kondo** and Yasutaka Kamei, "How Small is Enough? Empirical Evidence of Quantized Small Language Models for Automated Program Repair," In Proc. of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM2025), (accepted, to appear). [(preprint)](https://arxiv.org/abs/2508.16499)

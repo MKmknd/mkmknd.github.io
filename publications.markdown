@@ -32,6 +32,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
+- Sota Nakashima, **Masanari Kondo**, Mahmoud Alfadel, Aly Ahmad, Toshihiro Nakae, Hidenori Matsuzaki, Yasutaka Kamei, "Toward Linking Declined Proposals and Source Code: An Exploratory Study on the Go Repository," In Proc. of the 23rd International Conference on Mining Software Repositories (MSR 2026), (accepted, to appear).
 - Chihiro Yoshida, Yuta Ishimoto, Olivier Nourry, **Masanari Kondo**, Makoto Matsushita, Yasutaka Kamei and Yoshiki Higo, "Leveraging Mutation Analysis for LLM-based Repair of Quantum Programs," In Proc. of the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026), (accepted, to appear).
 - Ayana Uematsu, Hironori Washizaki, Naoyasu Ubayashi, **Masanari Kondo**, Juichi Takahashi and Yohei Takagi, "BUPLinker: Bridging Users and Developers in Mobile Application Evolution," In Proc. of the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026), (accepted, to appear).
 - Ryo Masuda, Takahiro Kinoshita, Hideyuki Kanuka, Sien Reeve O. Peralta, Hironori Washizaki and **Masanari Kondo**, "Revealing Reversed Causal Effects in Bug-Fix Delays: A LiNGAM-Based Comparison between OSS and Enterprise Systems," In Proc. of the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026), (accepted, to appear).
@@ -60,6 +61,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo** and Ryosuke Kubota, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” In Proc. of the International Symposium on Technology for Sustainability (ISTS2014), in CD-ROM (4 pages), November 2014, (Taipei, Taiwan).
 
 ## Books
+- 生成AIによるソフトウェア開発 -設計からテスト，マネジメントまでをすべて変革するLLM活用の実践体系-, 情報処理学会 監修，鷲崎 弘宜 編著，家村 康佑，石川 冬樹，鵜林 尚靖，蝦名 拓也，小川 秀人，川上 真澄，**近藤 将成**，竹之内 啓太，徳本 晋，中川 尊雄，増田 航太, オーム社，2025年11月7日発売，ISBN: 
+978-4-274-23415-6.
 - OSS Myths and Facts, [Book URL](https://arxiv.org/abs/2404.09223)
 
 ## Domestic Conferences

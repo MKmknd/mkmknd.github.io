@@ -17,6 +17,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
 
 ## Journal Papers
+- Jianchen Zhao, Kundi Yao, **Masanari Kondo**, Hetong Dai, Weiyi Shang, Yasutaka Kamei, "Not-So-Pretty: Studying and Segmenting Multiline Console Logs," ACM Transactions on Software Engineering and Methodology, (just accepted, to appear)
 - Olivier Nourry, **Masanari Kondo**, Shinobu Saito, Yukako Iimura, Naoyasu Ubahashi, Yasutaka Kamei, "Abandonment and Resilience: Understanding Core Developer Turnover in Open Source Software," IEICE Transactions, (accepted, to appear)
 - Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025.
 - Hiroki Kuramoto, Dong Wang, **Masanari Kondo**, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi, "Understanding the Characteristics and the Role of Visual Issue Reports," Empirical Software Engineering, Vol.29, No.89, 2024. [(preprint)](https://github.com/MKmknd/mkmknd.github.io/blob/gh-pages/assets/preprint/kuramoto2024EMSE.pdf)
@@ -66,6 +67,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - OSS Myths and Facts, [Book URL](https://arxiv.org/abs/2404.09223)
 
 ## Domestic Conferences
+- 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
 - 柏 祐太郎，**近藤 将成**，槇原 絵里奈，亀井 靖高，"シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較" ソフトウェアエンジニアリングシンポジウム2025論文集（SES2025），(accepted, to appear)，2025．
 - **近藤 将成**，池田 翔，Gopi Krishnan Rajbahadur，鵜林 尚靖，亀井 靖高，"異なる変更量のコミットがJust-In-Timeバグ予測の評価結果へ与える影響の調査" 第31回ソフトウェア工学の基礎ワークショップ (FOSE2024)，(accepted, to appear)，2024．
 - 東本 知志，蔵元 宏樹，斎藤 忍，飯村 結香子，**近藤 将成**，亀井 靖高，鵜林 尚靖，"生存時間分析によるOSSの活動継続に関する実証評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.23-32，2023．
@@ -93,6 +95,8 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
 
 ## Awards
+- 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀論文賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
+- 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀発表賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
 - Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "SIGSE卓越研究賞: Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025.
 - **Masanari Kondo**, Daniel German, Yasutaka Kamei, Naoyasu Ubayashi, Osamu Mizuno, "SIGSE卓越研究賞: An Empirical Study of Token-based Micro Commits", Empirical Software Engineering, Vol.29, No.148, 2024. 
 - 柏 祐太郎, **近藤 将成**, 槇原 絵里奈, 亀井 靖高, "研究奨励賞: シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較," ソフトウェアエンジニアリングシンポジウム2025論文集 (SES2025), 2025年9月.

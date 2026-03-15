@@ -35,6 +35,7 @@ permalink: /service/
 - International Conference on the Foundations of Software Engineering (FSE)[CoreランクA+]
     - 2025@Demonstrations
 - International Conference on Automated Software Engineering (ASE)[CoreランクA+]
+    - 2026@Research Track
     - 2025@NIER Track
     - 2024@NIER Track
     - 2023@NIER Track

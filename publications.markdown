@@ -134,6 +134,9 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - Nov. 2014, “A Modified Genetic Algorithm for Nurse Scheduling Problem with Considering Individual Preference,” International Symposium on Technology for Sustainability (ISTS2014)
 
 ## Workshops
+- 照屋 悠，草間 紀輝，舒 泓霖，近藤 将成，亀井 靖高（九州大学）, "LLMを利用した多言語脆弱性検出における中間表現の効果", 第222回SE研究発表会, 2026年3月.
+- 平田 海大，近藤 将成，亀井 靖高（九州大学）, "LLMを用いた論文の再現リポジトリ自動生成に関する初期分析", 第222回SE研究発表会, 2026年3月.
+- 若松 大輝・石本 優太（九州大学）・Hao Li（Queen's University）・近藤 将成（九州大学）・Ahmed E. Hassan （Queen's University）・亀井 靖高（九州大学）, "コード生成におけるLLMの内部挙動の初期分析 —LLMカバレッジを用いた実証的評価—", 第221回SE研究発表会, 2025年11月.
 - 中島蒼太・石本優太・近藤 将成・Tao Xiao・亀井 靖高, "大規模言語モデルを用いたSATDの分類体系の自動生成," 第220回ソフトウェア工学研究発表会, 2025年7月.
 - 草間 紀輝, Honglin Shu, 近藤 将成, 亀井 靖高, "Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技法, vol.124, no.124, no.429, pp.152-157, 2025年03月.
 - 石本優太・近藤将成（九大）・鵜林尚靖（早大）・亀井靖高（九大）・勝部瞭太・佐藤直人・小川秀人（日立）, "量子プログラムに対するミューテーションに基づく欠陥局所化," 信学技報, vol.124, no.429, pp.194-199, 2025年3月.

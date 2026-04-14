@@ -33,6 +33,7 @@ permalink: /service/
 
 ## 国際会議におけるレフェリー（PCメンバー）
 - International Conference on the Foundations of Software Engineering (FSE)[CoreランクA+]
+    - 2027@Research Track
     - 2025@Demonstrations
 - International Conference on Automated Software Engineering (ASE)[CoreランクA+]
     - 2026@Research Track

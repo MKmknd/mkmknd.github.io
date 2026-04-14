@@ -95,6 +95,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 中村 司，亀井 靖高，**近藤 将成**，鵜林 尚靖, "自動プログラム修正技術の性能評価 -九州大学の基幹教育データを用いた事例研究-，" ソフトウェアエンジニアリングシンポジウム2021論文集 (SES2021), 一般論文, pp.76-83, 2021年9月.
 
 ## Awards
+- 近藤 偉成，**近藤 将成**，亀井 靖高，肥後 芳樹，"2025年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞: 関数の依存関係に基づく探索範囲を拡張したSZZ手法の初期調査"，信学技報, vol. 125, no. 376, SS2025-33, pp. 19-24, 2026年3月.
 - 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀論文賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
 - 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀発表賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
 - Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "SIGSE卓越研究賞: Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025.

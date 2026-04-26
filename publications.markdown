@@ -97,6 +97,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 
 ## Awards
 - 近藤 偉成，**近藤 将成**，亀井 靖高，肥後 芳樹，"2025年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞: 関数の依存関係に基づく探索範囲を拡張したSZZ手法の初期調査"，信学技報, vol. 125, no. 376, SS2025-33, pp. 19-24, 2026年3月.
+- 公益社団法人 日本工学教育協会 第30回（2025年度）工学教育賞 業績部門，代表：九州大学 荒川豊 教授（近藤はPMとして参加），福岡県における次世代エンジニアの発掘・育成活動，https://www.jsee.or.jp/jsee/wp-content/uploads/2026/03/2025kyoikusyo.pdf
 - 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀論文賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
 - 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀発表賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
 - Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "SIGSE卓越研究賞: Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025.

@@ -76,6 +76,7 @@ permalink: /service/
     - 2024@Main Track
 
 ## 国際会議Chair
+- AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers: General Chair, 2025.
 - MSR2027: International Conference on Mining Software Repositories: Registered Reports Track Co-Chairs, 2027.
 - EEE-OSS 2024: Exploring Employee Experience in Open Source Software: General Chair, 2024.
 - The First International Symposium on the Future of Software Engineering: Program Co-Chair, 2024. 

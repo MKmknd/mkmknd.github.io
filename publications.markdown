@@ -68,9 +68,9 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - OSS Myths and Facts, [Book URL](https://arxiv.org/abs/2404.09223)
 
 ## Domestic Conferences
-- 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
-- 柏 祐太郎，**近藤 将成**，槇原 絵里奈，亀井 靖高，"シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較" ソフトウェアエンジニアリングシンポジウム2025論文集（SES2025），(accepted, to appear)，2025．
-- **近藤 将成**，池田 翔，Gopi Krishnan Rajbahadur，鵜林 尚靖，亀井 靖高，"異なる変更量のコミットがJust-In-Timeバグ予測の評価結果へ与える影響の調査" 第31回ソフトウェア工学の基礎ワークショップ (FOSE2024)，(accepted, to appear)，2024．
+- 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026．2026年2月．
+- 柏 祐太郎，**近藤 将成**，槇原 絵里奈，亀井 靖高，"シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較" ソフトウェアエンジニアリングシンポジウム2025論文集（SES2025），pp.105-113，2025．
+- **近藤 将成**，池田 翔，Gopi Krishnan Rajbahadur，鵜林 尚靖，亀井 靖高，"異なる変更量のコミットがJust-In-Timeバグ予測の評価結果へ与える影響の調査" 第31回ソフトウェア工学の基礎ワークショップ (FOSE2024)，pp.75-84，2024．
 - 東本 知志，蔵元 宏樹，斎藤 忍，飯村 結香子，**近藤 将成**，亀井 靖高，鵜林 尚靖，"生存時間分析によるOSSの活動継続に関する実証評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.23-32，2023．
 - 宇都宮 魁斗，秋山 楽登，**近藤 将成**，亀井 靖高，鵜林 尚靖，"初学者のためのデバッグ作業支援に向けた大規模言語モデルの初期評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.63-71，2023．
 - 和田 寛太，森田 一成，**近藤 将成**，亀井 靖高，鵜林 尚靖，"プログラム自動修正に向けた行単位のバグ予測手法の拡張とその評価" 第30回ソフトウェア工学の基礎ワークショップ (FOSE2023)，pp.73-82，2023．
@@ -97,11 +97,11 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 
 ## Awards
 - 近藤 偉成，**近藤 将成**，亀井 靖高，肥後 芳樹，"2025年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞: 関数の依存関係に基づく探索範囲を拡張したSZZ手法の初期調査"，信学技報, vol. 125, no. 376, SS2025-33, pp. 19-24, 2026年3月.
-- 公益社団法人 日本工学教育協会 第30回（2025年度）工学教育賞 業績部門，代表：九州大学 荒川豊 教授（近藤はPMとして参加），福岡県における次世代エンジニアの発掘・育成活動，https://www.jsee.or.jp/jsee/wp-content/uploads/2026/03/2025kyoikusyo.pdf
-- 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀論文賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
-- 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀発表賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026
-- Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "SIGSE卓越研究賞: Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025.
-- **Masanari Kondo**, Daniel German, Yasutaka Kamei, Naoyasu Ubayashi, Osamu Mizuno, "SIGSE卓越研究賞: An Empirical Study of Token-based Micro Commits", Empirical Software Engineering, Vol.29, No.148, 2024. 
+- 公益社団法人 日本工学教育協会 第30回（2025年度）工学教育賞 業績部門，代表：九州大学 荒川豊 教授（近藤はPMとして参加），福岡県における次世代エンジニアの発掘・育成活動，https://www.jsee.or.jp/jsee/wp-content/uploads/2026/03/2025kyoikusyo.pdf，2026年3月．
+- 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀論文賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026．2026年2月．
+- 伊澤勇気，小形真平（信州大学），**近藤将成（九州大学）**，岡野浩三（信州大学），"優秀発表賞: PointerPuzzle：C言語のポインタ向け学習支援ゲームの提案と予備的評価"，第12回 実践的IT教育シンポジウム rePiT2026．2026年2月．
+- Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "SIGSE卓越研究賞: Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025. 2025年9月．
+- **Masanari Kondo**, Daniel German, Yasutaka Kamei, Naoyasu Ubayashi, Osamu Mizuno, "SIGSE卓越研究賞: An Empirical Study of Token-based Micro Commits", Empirical Software Engineering, Vol.29, No.148, 2024.  2025年9月．
 - 柏 祐太郎, **近藤 将成**, 槇原 絵里奈, 亀井 靖高, "研究奨励賞: シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較," ソフトウェアエンジニアリングシンポジウム2025論文集 (SES2025), 2025年9月.
 - 草間 紀輝, Honglin Shu, **近藤 将成**, 亀井 靖高, "2024年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞：Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技法, vol.124, no.124, no.429, pp.152-157, 2025年03月
 - 石本優太, 近藤 将成, 馬 雷, 鵜林 尚靖, 亀井 靖高, "ポスター・デモ賞：Repairs and Breaks Prediction for Deep Neural Networks", 第三十一回ソフトウェア工学の基礎ワークショップ (FOSE2024), 2024年11月30日

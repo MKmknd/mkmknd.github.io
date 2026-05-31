@@ -74,6 +74,8 @@ permalink: /service/
 - International Conference on AI-Powered Software (AIware)
     - 2025@Main Track
     - 2024@Main Track
+- International Workshop on Trustworthy and Responsible aUtonomous SysTems (TRUST)
+    - 2026@Main Track
 
 ## 国際会議Chair
 - AI-Driven Software Engineering Summit for Fostering Next-Generation Researchers: General Chair, 2025.

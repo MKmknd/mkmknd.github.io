@@ -34,6 +34,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
+- Yuta Ishimoto, Paolo Arcaini, Fuyuki Ishikawa, **Masanari Kondo**, Naoyasu Ubayashi and Yasutaka Kamei, "RepTran: Search-Based Repair of Transformer Models," In proc. of the 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026), (accepted, to appear).
 - Yuki Toi, Tao Xiao, Kazushi Tomoto, **Masanari Kondo** and Yasutaka Kamei, "Exploring the Potential of Program Flowcharts on Code Generation Using Multimodal LLMs," In proc. of the 26th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2026), (accepted, to appear).
 - Kazuki Kusama, Honglin Shu, **Masanari Kondo**, Tao Xiao and Yasutaka Kamei, "ThinkLog: Leveraging Reasoning for Log Statement Generation," In proc. of the 26th IEEE International Conference on Software Quality, Reliability, and Security (QRS 2026, short paper), (accepted, to appear).
 - Sota Nakashima, **Masanari Kondo**, Mahmoud Alfadel, Aly Ahmad, Toshihiro Nakae, Hidenori Matsuzaki, Yasutaka Kamei, "Toward Linking Declined Proposals and Source Code: An Exploratory Study on the Go Repository," In Proc. of the 23rd International Conference on Mining Software Repositories (MSR 2026), (accepted, to appear).

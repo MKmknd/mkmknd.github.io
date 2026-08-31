@@ -59,6 +59,7 @@ permalink: /service/
     - 2024@Tool Demonstration
     - 2023@Research Track
 - International Conference on Software Analysis, Evolution and Reengineering (SANER)[CoreランクA]
+    - 2027@Research Track
     - 2026@Research Track
     - 2025@Research Track
     - 2024@Research Papers
@@ -70,6 +71,7 @@ permalink: /service/
 - International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026) 
     - 2026@Research Track
 - Asia Pacific Software Engineering Conference (APSEC)
+    - 2026@Tool-Demo Track
     - 2025@Tool-Demo Track
     - 2023@Student Research Competition
 - International Conference on AI-Powered Software (AIware)

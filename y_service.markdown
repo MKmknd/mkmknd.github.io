@@ -54,6 +54,7 @@ permalink: /service/
     - 2023@Data and Tool Showcase Track
     - 2022@Registered Reports
 - International Conference on Program Comprehension (ICPC)[CoreランクA]
+    - 2027@Technical Track
     - 2026@Technical Track
     - 2024@Research Track (Distinguished Reviewer Award)
     - 2024@Tool Demonstration
@@ -68,7 +69,8 @@ permalink: /service/
 - International Conference on Source Code Analysis & Manipulation (SCAM) [CoreランクC]
     - 2026@Engineering Track
     - 2025@Engineering Track
-- International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026) 
+- International Conference on Cooperative and Human Aspects of Software Engineering (CHASE) 
+    - 2027@Research Track
     - 2026@Research Track
 - Asia Pacific Software Engineering Conference (APSEC)
     - 2026@Tool-Demo Track

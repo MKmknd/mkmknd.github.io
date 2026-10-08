@@ -17,6 +17,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - **Masanari Kondo**, Osamu Mizuno, and Eun-Hye Choi, "Causal-Effect Analysis Using Bayesian Lingam Comparing with Correlation Analysis in Function Point Metrics and Effort," International Journal of Mathematical, Engineering and Management Sciences (IJMEMS), 3(2), 90–112, 2018.
 
 ## Journal Papers
+- 東本 知志, 斎藤 忍, 飯村 結香子, **近藤 将成**, 鵜林 尚靖, 亀井 靖高, "OSSにおける匿名関数の利用実態に関する実証研究", 情報処理学会論文誌, 採録決定済み
 - Haruka Tokumasu, **Masanari Kondo**, Alexander Serebrenik, Dong Wang, Kei Koyanagi, Kotaro Noguchi, Naoyasu Ubayashi, Yasutaka Kamei, "A Study on the Impact of Natural Language Differences in Prompts on Automatic Code Generation Using LLMs," Empirical Software Engineering, 2026 (accepted, to appear)
 - Inase Kondo, **Masanari Kondo**, Daniel M. German, Yasutaka Kamei, Yoshiki Higo, "MV-SZZ: A Majority Voting-Based SZZ Method," IEEE Transactions on Software Engineering, 2026. (accepted, to appear).
 - Jianchen Zhao, Kundi Yao, **Masanari Kondo**, Hetong Dai, Weiyi Shang, Yasutaka Kamei, "Not-So-Pretty: Studying and Segmenting Multiline Console Logs," ACM Transactions on Software Engineering and Methodology, 2026. 10.1145/3803019

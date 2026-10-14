@@ -5,6 +5,7 @@ permalink: /service/
 ---
 
 ## 招待発表など　
+- 講演者：近藤 将成，第25回情報科学技術フォーラム トップコンファレンスセッション，発表タイトル：トークン単位のマイクロコミットに関する実証調査，第25回情報科学技術フォーラム 2026年9月2日，プログラム：https://www.ipsj.or.jp/event/fit/fit2026/abstract/data/html/event/TCS2-1.html
 - 講演者：近藤 将成，ソフトウェアエンジニアリングシンポジウム2024 (SES2024) 招待論文セッション，発表タイトル：Benefits and Pitfalls of Token-Level SZZ: An Empirical Study on OSS Projects，SES2024 2024年9月19日，プログラム：https://ses.sigse.jp/2024/program.html
 - 講演者：近藤 将成，日本ソフトウェア科学会第40回大会 40周年企画セッション「若手研究者特別講演」，発表タイトル：開発者に喜ばれるソフトウェアリポジトリマイニング研究を目指して，日本ソフトウェア科学会第40回大会 2023年9月14日，プログラム：https://jssst2023.wordpress.com/program/
 - 講演者：近藤 将成，日本ソフトウェア科学会第40回大会 トップカンファレンス・トップ論文誌特別講演，発表タイトル：An empirical study of issue-link algorithms: which issue-link algorithms should we use?，日本ソフトウェア科学会第40回大会 2023年9月13日，プログラム：https://jssst2023.wordpress.com/program/

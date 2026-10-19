@@ -19,7 +19,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 ## Journal Papers
 - 東本 知志, 斎藤 忍, 飯村 結香子, **近藤 将成**, 鵜林 尚靖, 亀井 靖高, "OSSにおける匿名関数の利用実態に関する実証研究", 情報処理学会論文誌, 採録決定済み
 - Haruka Tokumasu, **Masanari Kondo**, Alexander Serebrenik, Dong Wang, Kei Koyanagi, Kotaro Noguchi, Naoyasu Ubayashi, Yasutaka Kamei, "A Study on the Impact of Natural Language Differences in Prompts on Automatic Code Generation Using LLMs," Empirical Software Engineering, 2026 (accepted, to appear)
-- Inase Kondo, **Masanari Kondo**, Daniel M. German, Yasutaka Kamei, Yoshiki Higo, "MV-SZZ: A Majority Voting-Based SZZ Method," IEEE Transactions on Software Engineering, 2026. (accepted, to appear).
+- Inase Kondo, **Masanari Kondo**, Daniel M. German, Yasutaka Kamei, Yoshiki Higo, "MV-SZZ: A Majority Voting-Based SZZ Method," IEEE Transactions on Software Engineering, vol. 52, no. 6, pp. 1911-1927, June 2026. 10.1109/TSE.2026.3688089. 
 - Jianchen Zhao, Kundi Yao, **Masanari Kondo**, Hetong Dai, Weiyi Shang, Yasutaka Kamei, "Not-So-Pretty: Studying and Segmenting Multiline Console Logs," ACM Transactions on Software Engineering and Methodology, 2026. 10.1145/3803019
 - Olivier Nourry, **Masanari Kondo**, Shinobu Saito, Yukako Iimura, Naoyasu Ubahashi, Yasutaka Kamei, "Abandonment and Resilience: Understanding Core Developer Turnover in Open Source Software," IEICE TRANSACTIONS on Information, Vol.E108-D, No.11, pp.1412-1415, 2025. 10.1587/transinf.2025EDL8005
 - Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubahashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025. 10.1145/3702983

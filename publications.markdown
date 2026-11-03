@@ -36,6 +36,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 新堂 風, **近藤 将成**, 柏 祐太郎, 東 英明, 柗本 真佑, 亀井 靖高, 鵜林 尚靖, "コンテナ仮想化技術におけるSATDの削除に関する調査", 情報処理学会論文誌, 63(4), pp.949-959, 2022.
 
 ## International Conferences
+- Napasorn Lapprakobkit, **Masanari Kondo**, Tao Xiao, Morakot Choetkiertikul, Chaiyong Ragkhitwetsagul, Pattaraporn Sangaroonsilp, Thanwadee Sunetnanta and Yasutaka Kamei, "Quantifying the Resolved Tasks and Cost That Test Feedback Adds to LLM-Based Program Repair," In Proc. of the 13th International Workshop on Quantitative Approaches to Software Quality (QuASoQ 2026), (accepted, to appear), 2026.
 - Napasorn Lapprakobkit, Haruka Tokumasu, Tao Xiao, **Masanari Kondo**, Morakot Choetkiertikul, Chaiyong Ragkhitwetsagul, Yasutaka Kamei, "Early Adoption, Use, and Maintenance of the Agent Package Manager in Open-Source Software," In Proc. of the 33rd Asia-Pacific Software Engineering Conference (APSEC 2026) ERA track, (accepted, to appear) 2026. Acceptance Rate: 40.8% (20/49)
 - Taiki Wakamatsu, Yuta Ishimoto, **Masanari Kondo**, Yasutaka Kamei, "PreMaQ: Predicting Maintainability-Related Quality of LLM-Generated Code Before Generation," In Proc. of the 33rd Asia-Pacific Software Engineering Conference (APSEC 2026), technical track, (accepted, to appear) 2026. Acceptance Rate: 28.4% (48/163)
 - Sota Nakashima, Yuta Ishimoto, **Masanari Kondo**, Tao Xiao, Yasutaka Kamei, "How Well Do LLMs Generate Taxonomies in the SE domain? A  Multi-Perspective Evaluation Framework," In Proc. of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026), pp.3239–3251, 2026. 10.1145/3832783.383755 [(preprint)](https://arxiv.org/abs/2608.01592).
@@ -115,7 +116,7 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - Yuta Ishimoto, **Masanari Kondo**, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "SIGSE卓越研究賞: Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology, Vol.34, Issue 4, No.94, pp.1-42, 2025. 2025年9月．
 - **Masanari Kondo**, Daniel German, Yasutaka Kamei, Naoyasu Ubayashi, Osamu Mizuno, "SIGSE卓越研究賞: An Empirical Study of Token-based Micro Commits", Empirical Software Engineering, Vol.29, No.148, 2024.  2025年9月．
 - 柏 祐太郎, **近藤 将成**, 槇原 絵里奈, 亀井 靖高, "研究奨励賞: シラバスから見る日本と海外におけるソフトウェア工学教育の違い：世界のトップ大学との比較," ソフトウェアエンジニアリングシンポジウム2025論文集 (SES2025), 2025年9月.
-- 草間 紀輝, Honglin Shu, **近藤 将成**, 亀井 靖高, "2024年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞：Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技法, vol.124, no.124, no.429, pp.152-157, 2025年03月
+- 草間 紀輝, Honglin Shu, **近藤 将成**, 亀井 靖高, "2024年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞：Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技報, vol.124, no.124, no.429, pp.152-157, 2025年03月
 - 石本優太, 近藤 将成, 馬 雷, 鵜林 尚靖, 亀井 靖高, "ポスター・デモ賞：Repairs and Breaks Prediction for Deep Neural Networks", 第三十一回ソフトウェア工学の基礎ワークショップ (FOSE2024), 2024年11月30日
 - **M. Kondo**, ICPC2024 Distinguished Reviewer Award (April, 2024)
 - 宇都宮 魁斗, "IEEE Computer Society Japan Chapter FOSE Young Researcher Award: 宇都宮 魁斗，秋山 楽登，**近藤 将成**，亀井 靖高，鵜林 尚靖，"初学者のためのデバッグ作業支援に向けた大規模言語モデルの初期評価"，FOSE2023，2023．2023年11月11日
@@ -154,11 +155,11 @@ Please also check [my Google Scholar page](https://scholar.google.com/citations?
 - 近藤 偉成，近藤 将成，亀井 靖高，肥後 芳樹，"関数の依存関係に基づく探索範囲を拡張したSZZ手法の初期調査"，信学技報, vol. 125, no. 376, SS2025-33, pp. 19-24, 2026年3月.
 - 若松 大輝・石本 優太（九州大学）・Hao Li（Queen's University）・近藤 将成（九州大学）・Ahmed E. Hassan （Queen's University）・亀井 靖高（九州大学）, "コード生成におけるLLMの内部挙動の初期分析 —LLMカバレッジを用いた実証的評価—", 第221回SE研究発表会, 2025年11月.
 - 中島蒼太・石本優太・近藤 将成・Tao Xiao・亀井 靖高, "大規模言語モデルを用いたSATDの分類体系の自動生成," 第220回ソフトウェア工学研究発表会, 2025年7月.
-- 草間 紀輝, Honglin Shu, 近藤 将成, 亀井 靖高, "Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技法, vol.124, no.124, no.429, pp.152-157, 2025年03月.
+- 草間 紀輝, Honglin Shu, 近藤 将成, 亀井 靖高, "Small Language Modelを用いた自動プログラム修正に関する実証実験," 信学技報, vol.124, no.124, no.429, pp.152-157, 2025年03月.
 - 石本優太・近藤将成（九大）・鵜林尚靖（早大）・亀井靖高（九大）・勝部瞭太・佐藤直人・小川秀人（日立）, "量子プログラムに対するミューテーションに基づく欠陥局所化," 信学技報, vol.124, no.429, pp.194-199, 2025年3月.
 - 戸井裕規・東本知志・近藤将成（九大）・鵜林尚靖（早大）・亀井靖高（九大）, "GPT-4oを用いたコード自動生成におけるプログラムフローチャート画像の影響調査," 信学技報, vol.124, no.429, pp.164-169, 2025年3月.
 - 植中 雄斗, 石本 優太, 近藤 将成, 亀井 靖高 (九州大学), "ビデオゲームにおけるバグの自動検出手法の提案と初期評価," 第219回ソフトウェア工学研究発表会, 2025年3月．
-- 近藤偉成（阪大）・近藤将成・亀井靖高（九大）・肥後芳樹（阪大）, "SZZ手法によるバグ混入コミット推定精度向上のためのコンテキストを考慮した開発履歴の提案," 信学技法, vol.124, no.326, pp.104-109, 2025年1月.
+- 近藤偉成（阪大）・近藤将成・亀井靖高（九大）・肥後芳樹（阪大）, "SZZ手法によるバグ混入コミット推定精度向上のためのコンテキストを考慮した開発履歴の提案," 信学技報, vol.124, no.326, pp.104-109, 2025年1月.
 - 徳益 晴香, 近藤 将成, 小栁 慶（九州大学）, Wang Dong（天津大学）, 鵜林 尚靖（早稲田大学）, Serebrenik Alexander（Eindhoven University of Technology）, 亀井 靖高（九州大学）, "プロンプトの自然言語差異が LLM を用いたコード自動生成に及ぼす影響の研究," 第218回ソフトウェア工学研究発表会, 2024年11月．
 - 熊 中仁, 近藤 将成, 鵜林 尚靖, 亀井 靖高, "コンテキストを考慮したSZZの提案と評価," 第217回ソフトウェア工学研究発表会, 2024年7月．
 - 中村 悠人，石本 優太，勝部 瞭太，佐藤 直人，小川 秀人，近藤 将成，亀井 靖高，鵜林 尚靖, "量子プログラムにおけるSATDの分類と評価," 電子情報通信学会技術報告 (知能ソフトウェア工学研究会), 2024年3月.

@@ -25,3 +25,8 @@ else
 fi
 
 echo "Built: $(pwd)/cv.pdf"
+
+# Copy to the location linked from the homepage's CV page (/cv/)
+mkdir -p ../assets/cv
+cp cv.pdf ../assets/cv/cv.pdf
+echo "Copied to: $(cd ../assets/cv && pwd)/cv.pdf (commit this file to publish)"

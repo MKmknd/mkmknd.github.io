@@ -40,6 +40,14 @@ latexmk -pdf cv.tex
 pdflatex cv.tex && pdflatex cv.tex
 ```
 
+## Publishing on the homepage
+
+`./build.sh` also copies the PDF to `../assets/cv/cv.pdf`, which is shown on the
+homepage's CV page (`/cv/`, defined in `../z_cv.markdown`). `cv/cv.pdf` itself is
+git-ignored, so after building, commit and push `assets/cv/cv.pdf` to update the site.
+
+## Overleaf
+
 On Overleaf, upload `cv.tex` and `photo.jpg` and compile with pdfLaTeX.
 
 ## Editing tips
